@@ -18,6 +18,6 @@ public enum Planet {
 
 	public boolean isCloserToSunThan(Planet other) {
 		return this.abstandZurSonne < other.abstandZurSonne;
-		// alternativ: return this.ordinal() < other.ordinal(); test
+		// alternativ: return this.ordinal() < other.ordinal();
 	}
 }
