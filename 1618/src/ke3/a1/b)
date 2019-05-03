@@ -1,0 +1,6 @@
+Subtypen besitzen nicht immer mehr Eigenschaften als deren Supertypen, aber nie weniger. 
+Eine Eigenschaft von Subtypen ist, dass sie spezieller sein können als ihre Supertypen. 
+Die Supertypen sind im Gegensatz dazu allgemeiner. Die Klasse Fahrzeug umfasst viele mögliche 
+Fortbewegungsmittel. Die Klasse Fahrrad ist konkreter bzw. speziellerer als die Klasse Fahrzeug.
+Treten, schwimmen und segeln sind nur mögliche Eigenschaften die das Fahrzeug annehmen kann, tatsächlich
+ist aber keine von diesen Eigenschaften für die Klasse Fahrzeug festgelegt.
